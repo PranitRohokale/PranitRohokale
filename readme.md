@@ -1,8 +1,8 @@
 
 <h1 align="center">👋 Hi, I'm Pranit Rohokale</h1>
 
-- Currently , I'm pursuing Computer Engineering Undergraduate at <a href="https://vjti.ac.in">**VJTI**</a>
-- I’m currently learning <a href="https://angular.io/">**React**</a> 
+- Currently , I'm pursuing Computer Engineering at <a href="https://vjti.ac.in">**VJTI**</a>
+- I’m currently learning <a href="https://reactjs.org/">**React**</a> 
 
 
 ## 📞 Contact Me
