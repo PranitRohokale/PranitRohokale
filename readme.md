@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently exploring  **Machine Learning**
 
-- 👯 Really loved to collaborate on **Web Dev**
+- 👯 Really love to collaborate on **Web Dev**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/PranitRohokale?tab=repositories)
 
