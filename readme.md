@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>, I'm Pranit Rohokale <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center"> Hi <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>, I'm Pranit Rohokale <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 </h1>
 <h3 align="center"> TY Computer Engineering Student at <a href="https://vjti.ac.in"  target="_blank">VJTI</a>, Mumbai.</h3>&nbsp;
 
