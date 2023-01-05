@@ -1,13 +1,13 @@
 
 <h1 align="center"> Hi <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>, I'm Pranit Rohokale <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 </h1>
-<h3 align="center"> TY Computer Engineering Student at <a href="https://vjti.ac.in"  target="_blank">VJTI</a>, Mumbai.</h3>&nbsp;
+<h3 align="center"> Final Year Computer Engineering Student at <a href="https://vjti.ac.in"  target="_blank">VJTI</a>, Mumbai.</h3>&nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PranitRohokale&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="PranitRohokale" /> </p>&nbsp;
 
 <p align="left"> <a href="https://twitter.com/PranitRangnath" target="blank"><img src="https://img.shields.io/twitter/follow/PranitRangnath?logo=twitter&style=for-the-badge" alt="PranitRangnath" /></a> </p>
 
-- 🔭 I’m currently exploring  **Machine Learning**
+- 🔭 I’m currently exploring  **Deep Learning**
 
 - 👯 Really loved to collaborate on **Web Dev**
 
