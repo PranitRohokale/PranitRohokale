@@ -39,10 +39,7 @@
 </p>
 
 <h3 align="center">⚡Github Stats</h3>
-<p align="center">
-<a href="https://github.com/PranitRohokale/PranitRohokale">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranitRohokale&hide=java,css,tex&title_color=FF5733&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
-</p>
+
+
 
 <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=PranitRohokale&currStreakNum=0066ff&fire=yellow&sideNums=0066ff&sideLabels=ffff00&currStreakLabel=ffff00&theme=radical&date_format=M%20j%5B%2C%20Y%5D&stroke=ffff00&dates=pink&style=centerme" /></div>
